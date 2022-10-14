@@ -1,3 +1,12 @@
+Preamble
+--------
+
+This is a slightly modified version of wxWidgets 3.1.3, for Audacity.
+It is forked from: https://github.com/audacity/wxWidgets.
+The purpose of this fork is to provide a frozen release for deterministic
+builds of Audacity 2.x >= 2.4.2 until wx3.2 becomes more readily available.
+
+
 About
 -----
 
